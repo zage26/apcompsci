@@ -18,13 +18,15 @@ public class Intro {
 		return (a && b && c);
 	}
 	
-	public static void stars(int n) {
+	public static String stars(int n) {
+		String star = "";
 		for(int i = 0; i < n; i++) {
 			for(int j = 0; j <= i; j++) {
-				System.out.print("*");
+				star += "*";
 			}
-			System.out.print("\n");
+			star += "\n";
 		}
+		return star;
 		
 	}
 	
