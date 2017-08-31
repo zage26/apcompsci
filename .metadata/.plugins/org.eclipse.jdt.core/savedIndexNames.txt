@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+/Users/Zage/Desktop/apcompsci/.metadata/.plugins/org.eclipse.jdt.core
+1524501369.index
